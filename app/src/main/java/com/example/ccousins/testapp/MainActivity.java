@@ -34,4 +34,6 @@ public class MainActivity extends AppCompatActivity {
         TextView tv = findViewById(R.id.myTextView);
         tv.setText("Some text");
     }
+
+
 }
